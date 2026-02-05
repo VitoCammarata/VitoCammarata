@@ -56,11 +56,3 @@ I have recently started my Master's Degree in **Artificial Intelligence and Cybe
 *   🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/vito-cammarata-85a430310/)
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitoCammarata&show_icons=true&theme=tokyonight" alt="Vito Cammarata's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoCammarata&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
