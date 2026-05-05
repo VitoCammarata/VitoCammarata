@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 
-I'm a software developer who loves turning ideas into functional code. My real passion is building tools that solve real-world problems and make people's lives easier.
+- I'm a software developer who loves turning ideas into functional code. My real passion is building tools that solve real-world problems and make people's lives easier.
 
-Currently, I'm pursuing a Master's Degree in Artificial Intelligence and Cybersecurity at Kore University of Enna. My journey is focused on the intersection of robust software engineering and intelligent systems, aiming to build software that is not only efficient but also smarter and more secure 🎯.
+- Currently, I'm pursuing a Master's Degree in Artificial Intelligence and Cybersecurity at Kore University of Enna. My journey is focused on the intersection of robust software engineering and            intelligent systems, aiming to build software that is not only efficient but also smarter and more secure 🎯.
 
 ---
 
