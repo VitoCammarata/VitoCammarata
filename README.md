@@ -20,11 +20,11 @@ Currently, I'm pursuing a Master's Degree in Artificial Intelligence and Cyberse
 
 ### 🌱 Focus & Learning
 
-Machine Learning & Deep Learning: Diving deep into neural architectures, temporal modeling, and pattern recognition.  
+- Machine Learning & Deep Learning: Diving deep into neural architectures, temporal modeling, and pattern           recognition.  
 
-Cybersecurity: Exploring defensive strategies and secure software development life cycles.
+- Cybersecurity: Exploring defensive strategies and secure software development life cycles.
 
-Software Architecture: Constantly refining my skills in design patterns to build robust, maintainable, and scalable applications.
+- Software Architecture: Constantly refining my skills in design patterns to build robust, maintainable, and        scalable applications.
 
 ---
 
