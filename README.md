@@ -14,14 +14,17 @@
 
 I'm a software developer who loves turning ideas into functional code. My real passion is building tools that solve real-world problems and make people's lives easier.
 
-I have recently started my Master's Degree in **Artificial Intelligence and Cybersecurity** at the [Kore University of Enna](https://uke.it/en/homepage-it). My goal is to explore how these disciplines can help me build software that is not only more efficient but also smarter and more secure 🎯.
+Currently, I'm pursuing a Master's Degree in Artificial Intelligence and Cybersecurity at Kore University of Enna. My journey is focused on the intersection of robust software engineering and intelligent systems, aiming to build software that is not only efficient but also smarter and more secure 🎯.
 
 ---
 
-### 🌱 I'm Currently Learning
+### 🌱 Focus & Learning
 
-*   📚 Through my studies, I'm diving deeper into the core concepts of **cybersecurity** and **machine learning**.
-*   💻 I'm constantly refining my skills in software architecture and design patterns to build more robust and maintainable applications.
+Machine Learning & Deep Learning: Diving deep into neural architectures, temporal modeling, and pattern recognition.  
+
+Cybersecurity: Exploring defensive strategies and secure software development life cycles.
+
+Software Architecture: Constantly refining my skills in design patterns to build robust, maintainable, and scalable applications.
 
 ---
 
