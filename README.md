@@ -18,12 +18,6 @@ I have recently started my Master's Degree in **Artificial Intelligence and Cybe
 
 ---
 
-### 🔭 Currently Working On
-
-*   ▶️ **YTManager**: A Python tool I'm developing to download and synchronize YouTube playlists locally. If you're curious, feel free to check out the repository [here](https://github.com/VitoCammarata/YTManager)!
-
----
-
 ### 🌱 I'm Currently Learning
 
 *   📚 Through my studies, I'm diving deeper into the core concepts of **cybersecurity** and **machine learning**.
