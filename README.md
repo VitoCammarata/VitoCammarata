@@ -30,55 +30,6 @@ Currently, I'm pursuing a Master's Degree in Artificial Intelligence and Cyberse
 
 ### 🛠️ My Tech Stack
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; background-color: transparent;">
-  <tr>
-    <!-- Cella vuota per creare lo scarto a destra -->
-    <td width="55" style="border: none; background-color: transparent;"></td>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-      </a>
-    </td>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-      </a>
-    </td>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-      </a>
-    </td>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-      </a>
-    </td>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-      </a>
-    </td>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-      </a>
-    </td>
-    <td style="border: none; background-color: transparent;">
-      <a href="https://en.wikipedia.org/wiki/Secure_Shell" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/> 
-      </a>
-    </td>
-    <td style="border: none; background-color: transparent;"></td>
-  </tr>
-</table>
 
 ---
 
